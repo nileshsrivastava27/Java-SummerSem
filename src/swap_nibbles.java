@@ -28,3 +28,5 @@ public class swap_nibbles {
         System.out.println("The binary value of integer is:"+ Integer.toBinaryString(x));
     }
 }
+
+
