@@ -32,7 +32,8 @@ public class maxProductSubarray {
 
         ArrayList<Integer> store = new ArrayList<>();
 
-        for (int i = 0; i < l; i++) {
+        for (int i = 0; i < l; i++)
+        {
             int temp = sc.nextInt();
             store.add(temp);
         }
