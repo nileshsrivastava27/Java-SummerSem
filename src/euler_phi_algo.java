@@ -31,8 +31,6 @@ class euler_phi_algo{
         int n;
         for(n=1;n<=111;n++){
             System.out.println("phi("+n+")=" + phi(n));
-            System.out.println("phi("+n+")=" + phi(n));
-            System.out.println("phi("+n+")=" + phi(n));
         }
     }
 }
