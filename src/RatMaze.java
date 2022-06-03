@@ -7,10 +7,6 @@
 //        Recursively call for position (i+1, j) and (i, j+1).
 //        Unmark position (i, j), i.e output[i][j] = 0.
 
-
-
-
-
 public class RatMaze {
 
     // Size of the maze
